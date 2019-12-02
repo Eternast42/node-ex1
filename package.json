@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/Eternast42/node-ex1#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "heroku": "^7.33.3"
   },
   "devDependencies": {},
   "description": ""
